@@ -1,0 +1,25 @@
+#article {
+  width: 500px;
+  background: transparent;
+  border-radius: 19px;
+  background-color: rgb(131, 192, 212);
+}
+.container {
+  justify-content: center;
+}
+img {
+  width: 450px;
+  height: 200px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.div-div {
+  background-color: lightblue;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  font-size: large;
+}
+#text {
+  border: none;
+}
